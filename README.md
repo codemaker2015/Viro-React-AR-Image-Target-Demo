@@ -33,5 +33,5 @@ List all dependencies from the package.json file along with their usage. This li
 - **Libraries used for UI:**
   - [native-base](https://nativebase.io/),[@viro-community/react-viro](https://github.com/ViroCommunity/viro)
 
-- **Documentation: **
+- **Documentation:**
   - [viro react docs](https://viro-community.readme.io/docs) 
